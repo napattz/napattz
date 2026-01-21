@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello World! 👋
 
-<!--
-**napattz/napattz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Napatt
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThtaHZoenlmeTZ6dmkxMjI2eXQ0cnQ2cWo2N2EwM3FmcGwyaGJyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="400" />
+
+- Unity Game Developer
+- Currently working on Namson Digital base on Bangkok thailand
+- Interested in Game Development, Unity , Unreal
+- Looking for opportunities side job on Upwork , fastwork
+
+<br clear="all" />
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### Connect with Me
+
+<p align="left">
+<a href="mailto:napattz23@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.upwork.com/freelancers/~0133c0aae0079e2095">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+</p>
