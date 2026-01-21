@@ -12,7 +12,6 @@ I am Napatt
 - Looking for opportunities side job on Upwork , fastwork
 
 <br clear="all" />
-
 ### Tech Stack
 
 <p align="left">
@@ -20,12 +19,11 @@ I am Napatt
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
 ### Connect with Me
 
 <p align="left">
-<a href="mailto:napattz23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/napatt-prapayasatok-06a634198/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.upwork.com/freelancers/~0133c0aae0079e2095">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
